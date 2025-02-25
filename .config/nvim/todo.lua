@@ -1,0 +1,31 @@
+--  TODO:
+
+-- [x] setup keymaps to navigating buffer
+-- [x] open new file in new buffer and not the old buffer
+-- [x] encorporate some of the old keymaps ans settings
+-- [x] switch to oil
+-- [x] remove unnncessary plugnis like substitute and surround
+-- [x] fix the positioning of buffer line
+-- [x] shortcut for save quit and save all and quit all it (leader w is currently taken by auto sessions plugins)
+-- [x] how can you undo even if the file is closed like before something like the history
+-- [] change the color scheme
+-- [] change lualine theme
+-- [x] fix telescope settings hybrid of tj this and prev setup
+-- [] color plugin
+--
+-- [] encorporate tj config
+-- [x] toggle neotree not working
+-- [x] learn about diagnostics and quickfix in vim
+-- [] watch tj videos and primeagens setup video
+-- [] restructure the folder
+-- [] organize other dot file
+-- [] clean the machine
+-- [] push to github
+--
+-- ADVANCE TODO:
+--
+-- [] learn about complex vim motion
+-- [] go through documentation
+-- [] learn to use trouble
+-- [] learn to use quickfix
+-- [] learn more about lsp
