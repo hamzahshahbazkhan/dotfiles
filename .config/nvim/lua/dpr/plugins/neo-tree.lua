@@ -6,7 +6,7 @@ return {
     "nvim-tree/nvim-web-devicons",
     "MunifTanjim/nui.nvim",
   },
-  enabled = true, -- Keep the plugin enabled so you can use it with keybindings
+  enabled = false, -- Keep the plugin enabled so you can use it with keybindings
   config = function()
     require("neo-tree").setup({
       close_if_last_window = true, -- Close Neo-tree if it is the last window left in the tab

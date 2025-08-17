@@ -3,7 +3,7 @@ return {
   event = { "BufReadPre", "BufNewFile" },
   version = "*", -- Use for stability; omit to use `main` branch for the latest features
   config = true,
-  enabled = false,
+  enabled = true,
 }
 
 --     Old text                    Command         New text

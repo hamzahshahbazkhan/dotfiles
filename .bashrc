@@ -118,3 +118,4 @@ fi
 alias br='brave-browser'
 alias warp='warp-terminal'
 . "$HOME/.cargo/env"
+export PATH="/home/dreadpirateroberts/.local/share/solana/install/active_release/bin:$PATH"

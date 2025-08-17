@@ -29,3 +29,4 @@
 -- [] learn to use trouble
 -- [] learn to use quickfix
 -- [] learn more about lsp
+-- [] auto command for highlighting on yanking

@@ -45,11 +45,11 @@
 # theme = oxocarbon
 theme = GruvboxDarkHard
 # theme = gruvbox
-background-opacity = 0.8
+background-opacity = 0.9
 
 gtk-tabs-location = hidden
 font-family = {{ terminal_font }}
-# font-size = 14
+font-size = 12
 scrollback-limit = 10_000
 # window-theme = ghostty
 clipboard-read = allow
@@ -61,3 +61,12 @@ shell-integration = zsh
 background-blur-radius = 20
 window-height=510
 window-width=1640
+
+#optimizations
+# renderer=software
+# gpu-acceleration=false
+# shell-integration =false
+# cursor-blink=false
+# cursor-style=block
+# window-animation=false
+# GSK_RENDERER=vulkan ghostty
